@@ -1,0 +1,19 @@
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 4em ;
+  background-color:grey;
+  color: white;
+  text-align: center;
+}
+
+.formgroup{
+  display:left;
+}
+image{
+  width: 93px; height: 96px;
+}
+
